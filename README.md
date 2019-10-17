@@ -12,6 +12,6 @@ Contato: christiano_varady@lccv.ufal.br
 
 ## Instruções
 
-[^1]: Instalar o executável;
-[^2]: Descompactar o zip na pasta <<End. de instalação do itom>>\itom-packages\dicgui;
-[^3]: Rodar o itom.
+1. Instalar o executável;
+2. Descompactar o zip na pasta <<End. de instalação do itom>>\itom-packages\dicgui;
+3. Rodar o itom.
